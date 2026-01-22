@@ -1,0 +1,15 @@
+
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "price": 59.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "title": "Smart Watch",
+    "price": 99.99,
+    "image": "https://via.placeholder.com/150"
+  }
+]
